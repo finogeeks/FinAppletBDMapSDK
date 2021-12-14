@@ -1,0 +1,6 @@
+framework module FinAppletBDMap {
+  umbrella header "FinAppletBDMap.h"
+
+  export *
+  module * { export * }
+}
