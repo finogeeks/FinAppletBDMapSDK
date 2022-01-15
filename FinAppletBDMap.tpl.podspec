@@ -22,5 +22,4 @@ Pod::Spec.new do |s|
   s.dependency 'BaiduMapKit/Map', '6.3.0'
   s.dependency 'BaiduMapKit/Search'
   s.dependency 'FinAppletExt','_FinAppletBDMap_version_'
-  //
 end
