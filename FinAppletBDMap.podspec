@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FinAppletBDMap"
-  s.version      = "2.35.15"
+  s.version      = "2.35.13"
   s.summary      = "FinApplet BDMap sdk."
   s.description  = <<-DESC
                     this is common
@@ -15,11 +15,11 @@ Pod::Spec.new do |s|
   s.author             = { "finclip" => "contact@finogeeks.com" }
   s.platform     = :ios, "9.0"
   s.ios.deployment_target = "9.0"
-  s.source       = { :http => "https://app.finogeeks.com/finchat/sdk/FinAppletBDMap-2.35.15.zip"  }
+  s.source       = { :http => "https://app.finogeeks.com/finchat/sdk/FinAppletBDMap-2.35.13.zip"  }
   s.vendored_frameworks = "FinAppletBDMap.framework" 
   s.libraries = 'c++'
   s.dependency 'BMKLocationKit'
   s.dependency 'BaiduMapKit/Map', '6.3.0'
   s.dependency 'BaiduMapKit/Search'
-  s.dependency 'FinAppletExt','2.35.15'
+  s.dependency 'FinAppletExt','2.35.13'
 end
