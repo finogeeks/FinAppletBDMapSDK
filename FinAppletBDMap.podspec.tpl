@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "_FinAppletBDMap_version_"
   s.summary      = "FinApplet BDMap sdk."
   s.description  = <<-DESC
-                    this is common
+                    this is FinApplet BDMap sdk.
                    DESC
   s.homepage     = "https://www.finclip.com"
   s.license      = {
