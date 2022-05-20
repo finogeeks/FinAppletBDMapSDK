@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
   s.dependency 'BMKLocationKit'
   s.dependency 'BaiduMapKit/Map', '6.3.0'
   s.dependency 'BaiduMapKit/Search'
-  s.dependency 'MJRefresh'
   s.dependency 'FinAppletExt','2.36.7'
   s.pod_target_xcconfig = {
     'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
