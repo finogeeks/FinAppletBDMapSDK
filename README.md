@@ -5,10 +5,10 @@
 </p>
 
 <p align="center"> 
-    <strong>FinClip 微信支付 Android DEMO</strong></br>
+    <strong>FinClip 百度地图插件</strong></br>
 <p>
 <p align="center"> 
-        本项目提供 FinCLip 百度地图插件，用于地图相关的 API 与组件调用
+        本项目提供 FinClip 百度地图插件，用于地图相关的 API 与组件调用
 <p>
 
 <p align="center"> 
